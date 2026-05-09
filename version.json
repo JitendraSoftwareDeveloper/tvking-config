@@ -1,6 +1,6 @@
 {
   "minVersionCode": 2,
-  "minVersionName": "1.0.0",
+  "minVersionName": "1.0.1",
   "updateUrl": "market://details?id=com.tvking.mobile",
   "updateUrlTv": "market://details?id=com.tvking.tv",
   "message": "A new version is required to continue.",
